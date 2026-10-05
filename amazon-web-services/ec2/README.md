@@ -1,7 +1,5 @@
 # Amazon Web Services EC2 
 
-![This is an alt text.](/amazon-web-services/ec2/EC2.png "This is a sample image.")
-
 ## Introduction to Amazon EC2
 AWS EC2 (Elastic Compute Cloud) is a service from Amazon Web Services that provides virtual servers (called instance) in the cloud. You can rent servers based on you needs without buying dan maintaining physical hardware. You choose the specs (CPU, RAM, storage, operating system), and the server is ready to use within minutes.
 
